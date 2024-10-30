@@ -1,0 +1,15 @@
+p.color_error {
+    color: red;
+}
+
+li.step_in_progress {
+    font-weight: bold;
+}
+
+li.step_complete {
+    font-style: italic;
+}
+
+li.step_failed {
+    color: red;
+}
